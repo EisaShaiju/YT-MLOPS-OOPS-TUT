@@ -12,3 +12,6 @@
     >getter and setter
     >static method
     >creation of attribute outside class
+    >inheritance
+    >method overloading
+    >advanced inheritance
