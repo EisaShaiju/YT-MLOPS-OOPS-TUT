@@ -13,10 +13,12 @@ class employee:
 
 #create an object or instance of the class
 sam=employee()
+# sam.name="Sam Kumar"
+# print(sam.name)
 
 #Example use cases of the above :  
 # print(sam.salary)
 
 # sam.travel("Kerala")
 
-print(type(sam))
+# print(type(sam))

@@ -6,3 +6,9 @@
     >code reusablity
     >debugging
     >easy to colab
+5. End to end project(Chatbook class)
+    >function vs methods
+    >encapsulation
+    >getter and setter
+    >static method
+    >creation of attribute outside class
