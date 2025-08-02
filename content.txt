@@ -1,3 +1,8 @@
 1. Class and obj(example)
 2.Class has data/attributes and functions/methods.
-3.Why python is called Objected Oriented programming
+3.Why python is called Objected Oriented programming? - everything in python is made of objects(data structure, data type) etc
+4. Advantages of oops
+    >you can create your own datatype
+    >code reusablity
+    >debugging
+    >easy to colab
